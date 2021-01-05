@@ -1,3 +1,3 @@
-Too Lazy to write documentation\n
+Too Lazy to write documentation
 Sorry
-I will do it in the Future\n
+I will do it in the Future
